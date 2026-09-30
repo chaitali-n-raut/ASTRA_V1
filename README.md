@@ -97,3 +97,7 @@ Complete documentation is located in the `docs/` folder:
 - [Setup & Execution Guide](docs/setup.md)
 - [Testing & Verification](docs/testing.md)
 - [Future Scope & Production Roadmap](docs/future-scope.md)
+
+## Author 
+   Chaitali Raut & Team
+   
