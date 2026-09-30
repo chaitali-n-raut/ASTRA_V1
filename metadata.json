@@ -1,0 +1,6 @@
+{
+  "name": "ASTRA_V1",
+  "description": "Autonomous Synchronization, Transcription, and Resolution Assistant — Intelligent multi-agent meeting lifecycle management platform with real-time orchestration, constraint scheduling, minutes extraction, task tracking, and persistent meeting memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
